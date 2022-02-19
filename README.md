@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site URL](https://lulzz.github.io/frontmentor-order-summary-card/)
+- Live Site URL: [Live site URL](https://lulzz.github.io/frontendmentor-order-summary-card/)
 
 ### Built with
 
