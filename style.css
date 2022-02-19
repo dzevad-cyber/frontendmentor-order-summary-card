@@ -138,7 +138,7 @@ img {
   text-align: center;
   padding: 10px 0;
   border-radius: 10px;
-  font-weight: 700;
+  font-weight: var(--fw-semi-bold);
   color: var(--bg-card);
   cursor: pointer;
 }
@@ -148,7 +148,7 @@ img {
 }
 
 .card__btn-cancel {
-  font-weight: 700;
+  font-weight: var(--fw-semi-bold);
   text-align: center;
   cursor: pointer;
   opacity: 0.7;
